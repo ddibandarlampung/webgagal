@@ -1,0 +1,47 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.home{
+	background-color: white;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+.jumbotron{
+	background-color: #F5CDD9;
+	padding-top: 6rem;
+}
+
+.h2-jumbotron{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.nama{
+	font-family: Viga;
+}
+
+
+.landing{
+	background-color: #DBDBDB;
+}
+
+.card-lp{
+	background-color: white;
+	margin: 20px;
+	padding-top: 6rem;
+	padding-bottom: 6rem;
+}
+
+.bi-i{
+	font-size: 38px;
+}
+
+.btn{
+	background-color: #B91646;
+	color: white;
+	width: 200px;
+}
